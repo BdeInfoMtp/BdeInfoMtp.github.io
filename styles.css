@@ -1,0 +1,12 @@
+.demo-layout-transparent {
+  /*background: url('./img/transparent.jpg') center / cover;*/
+  background: grey;
+}
+.demo-layout-transparent .mdl-layout__header, .demo-layout-transparent .mdl-layout__drawer-button {
+  color: white;
+}
+
+.active {
+  border-bottom: 3px solid transparent;
+  border-bottom-color: #18FFFF;
+}
