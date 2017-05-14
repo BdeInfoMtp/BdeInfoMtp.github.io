@@ -4,6 +4,7 @@
   margin:15px;
 }
 .d-card-wide > .mdl-card__title {
+  text-shadow:0 0 3px black;
   color: #fff;
   height: 50%;
   background: url('../img/welcome_card.jpg') center / cover;
@@ -19,4 +20,60 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.ben > .mdl-card__title {
+  background: url('../img/ben.jpg') center / cover;
+}
+
+.jul > .mdl-card__title {
+  background: url('../img/jul.jpg') center / cover;
+}
+
+.siboom > .mdl-card__title {
+  background: url('../img/siboom.jpg') center / cover;
+}
+
+.titouan > .mdl-card__title {
+  background: url('../img/titouan.jpg') center / cover;
+}
+
+.bastian > .mdl-card__title {
+  background: url('../img/bastian.jpg') center / cover;
+}
+
+.alban > .mdl-card__title {
+  background: url('../img/alban.jpg') center / cover;
+}
+
+.eric > .mdl-card__title {
+  background: url('../img/eric.jpg') center / cover;
+}
+
+.kirian > .mdl-card__title {
+  background: url('../img/kirian.jpg') center / cover;
+}
+
+.kaddy > .mdl-card__title {
+  background: url('../img/kaddy.png') center / cover;
+}
+
+.david > .mdl-card__title {
+  background: url('../img/david.jpg') center / cover;
+}
+
+.hugo > .mdl-card__title {
+  background: url('../img/hugo.jpg') center / cover;
+}
+
+.adrien > .mdl-card__title {
+  background: url('../img/adrien.jpg') center / cover;
+}
+
+.mourad > .mdl-card__title {
+  background: url('../img/mourad.png') center / cover;
+}
+
+.antoine > .mdl-card__title {
+  background: url('../img/antoine.jpg') center / cover;
 }
